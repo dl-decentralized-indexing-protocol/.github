@@ -1,4 +1,4 @@
-It is an experimental fork of (The Graph)[https://github.com/graphprotocol] that allows you to run a decentralized version of the protocol for your network.
+It is an experimental fork of [The Graph](https://github.com/graphprotocol) that allows you to run a decentralized version of the protocol for your network.
 
 Main features:
 - Decentralised setup of protocol for your EVM-based network
